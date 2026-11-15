@@ -1,0 +1,6 @@
+<fonts>
+    <font id="Big" filename="big.fnt" antialias="true"/>
+    <font id="BigOutline" filename="big_outline.fnt" antialias="true"/>
+    <font id="Mid" filename="mid.fnt" antialias="true"/>
+    <font id="Mono" filename="mono.fnt" antialias="true"/>
+</fonts>
